@@ -1,7 +1,7 @@
 import datetime
 
 def main():
-  print("Hello, World!")
+  print("Hello, world!")
 
   # Get current time & print it
   current_time = datetime.datetime.now()
